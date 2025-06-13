@@ -1,2 +1,2 @@
 # SRI
-progect sri used for gaming platforms 
+project sri used for gaming platforms 
