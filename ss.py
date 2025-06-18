@@ -1,1 +1,1 @@
-ukytoifvyukbgiy76tkgmlyurif
+n=int(input("Enter a number : "))
